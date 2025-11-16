@@ -1,7 +1,8 @@
-# 2025软工K班个人编程任务
+# 2025软工个人编程任务
 
-首行：作业仓库链接（`https://code.educoder.net/projects/<你的学号>`）  
-第二行：知士荟本次作业博客链接（发布后填写）
+作业仓库链接（`https://github.com/KKSHLSP/102301319`）  
+https://www.learnerhub.net/resources/5049
+
 
 ## 一、PSP表格
 
