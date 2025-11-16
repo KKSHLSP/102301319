@@ -1,0 +1,31 @@
+{
+  "video": {
+    "aid": 115557806444712,
+    "bvid": "BV1jjCQB1E7f",
+    "cid": 34040843086,
+    "title": "Google Titans：大模型记忆论文解读",
+    "keyword": "大语言模型",
+    "duration": 3385,
+    "publish_time": "2025-11-16T05:56:55+00:00",
+    "owner_name": "LLM张老师",
+    "view_count": 1202,
+    "danmaku_count": 1,
+    "like_count": 42,
+    "ranking_index": 12
+  },
+  "danmaku": [
+    {
+      "video_bvid": "BV1jjCQB1E7f",
+      "video_cid": 34040843086,
+      "content": "老师好～～终于更新了",
+      "appear_time": 5.078,
+      "send_time": "2025-11-16T08:38:38+00:00",
+      "mode": 1,
+      "font_size": 25,
+      "font_color": 16777215,
+      "author_hash": "0",
+      "weight": 1981314710079452160,
+      "pool": null
+    }
+  ]
+}

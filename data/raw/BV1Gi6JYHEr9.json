@@ -1,0 +1,109 @@
+{
+  "video": {
+    "aid": 113746437475031,
+    "bvid": "BV1Gi6JYHEr9",
+    "cid": 27625981737,
+    "title": "AI大模型（LLM）的工作原理",
+    "keyword": "LLM",
+    "duration": 1603,
+    "publish_time": "2025-01-01T00:00:00+00:00",
+    "owner_name": "lineboy888",
+    "view_count": 28301,
+    "danmaku_count": 7,
+    "like_count": 520,
+    "ranking_index": 65
+  },
+  "danmaku": [
+    {
+      "video_bvid": "BV1Gi6JYHEr9",
+      "video_cid": 27625981737,
+      "content": "好像是AI生成的语音",
+      "appear_time": 99.885,
+      "send_time": "2025-02-26T07:24:27+00:00",
+      "mode": 1,
+      "font_size": 25,
+      "font_color": 16777215,
+      "author_hash": "0",
+      "weight": 1790661348251287296,
+      "pool": null
+    },
+    {
+      "video_bvid": "BV1Gi6JYHEr9",
+      "video_cid": 27625981737,
+      "content": "也就是说，它每次的输出都会是带有随机性的？",
+      "appear_time": 1509.714,
+      "send_time": "2025-02-22T13:43:14+00:00",
+      "mode": 1,
+      "font_size": 25,
+      "font_color": 16777215,
+      "author_hash": "0",
+      "weight": 1787952893144645888,
+      "pool": null
+    },
+    {
+      "video_bvid": "BV1Gi6JYHEr9",
+      "video_cid": 27625981737,
+      "content": "有意思啊",
+      "appear_time": 1167.616,
+      "send_time": "2025-02-22T13:34:45+00:00",
+      "mode": 1,
+      "font_size": 25,
+      "font_color": 16777215,
+      "author_hash": "0",
+      "weight": 1787948628812333824,
+      "pool": null
+    },
+    {
+      "video_bvid": "BV1Gi6JYHEr9",
+      "video_cid": 27625981737,
+      "content": "可还行",
+      "appear_time": 972.861,
+      "send_time": "2025-02-22T13:27:59+00:00",
+      "mode": 1,
+      "font_size": 25,
+      "font_color": 16777215,
+      "author_hash": "0",
+      "weight": 1787945221284435712,
+      "pool": null
+    },
+    {
+      "video_bvid": "BV1Gi6JYHEr9",
+      "video_cid": 27625981737,
+      "content": "天才，到这终于理解了",
+      "appear_time": 926.197,
+      "send_time": "2025-02-22T13:27:08+00:00",
+      "mode": 1,
+      "font_size": 25,
+      "font_color": 16777215,
+      "author_hash": "0",
+      "weight": 1787944792525935616,
+      "pool": null
+    },
+    {
+      "video_bvid": "BV1Gi6JYHEr9",
+      "video_cid": 27625981737,
+      "content": "太牛逼了",
+      "appear_time": 1164.658,
+      "send_time": "2025-02-19T03:49:56+00:00",
+      "mode": 1,
+      "font_size": 25,
+      "font_color": 16777215,
+      "author_hash": "0",
+      "weight": 1785479952368748800,
+      "pool": null
+    },
+    {
+      "video_bvid": "BV1Gi6JYHEr9",
+      "video_cid": 27625981737,
+      "content": "茅塞顿开",
+      "appear_time": 1157.477,
+      "send_time": "2025-01-25T16:39:36+00:00",
+      "mode": 1,
+      "font_size": 25,
+      "font_color": 16777215,
+      "author_hash": "0",
+      "weight": 1767747946356484352,
+      "pool": null
+    }
+  ]
+}

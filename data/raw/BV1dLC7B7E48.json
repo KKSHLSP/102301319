@@ -1,0 +1,44 @@
+{
+  "video": {
+    "aid": 115536532870154,
+    "bvid": "BV1dLC7B7E48",
+    "cid": 33947713720,
+    "title": "从夯到拉锐评国产AI大模型",
+    "keyword": "大模型",
+    "duration": 120,
+    "publish_time": "2025-11-12T11:40:05+00:00",
+    "owner_name": "黑仔的AI脑洞",
+    "view_count": 1970,
+    "danmaku_count": 2,
+    "like_count": 35,
+    "ranking_index": 46
+  },
+  "danmaku": [
+    {
+      "video_bvid": "BV1dLC7B7E48",
+      "video_cid": 33947713720,
+      "content": "黑仔真棒",
+      "appear_time": 38.578,
+      "send_time": "2025-11-13T01:54:18+00:00",
+      "mode": 1,
+      "font_size": 25,
+      "font_color": 16777215,
+      "author_hash": "0",
+      "weight": 1978936869131620864,
+      "pool": null
+    },
+    {
+      "video_bvid": "BV1dLC7B7E48",
+      "video_cid": 33947713720,
+      "content": "up主威武",
+      "appear_time": 81.145,
+      "send_time": "2025-11-12T15:13:26+00:00",
+      "mode": 1,
+      "font_size": 25,
+      "font_color": 16777215,
+      "author_hash": "0",
+      "weight": 1978614312540863232,
+      "pool": null
+    }
+  ]
+}

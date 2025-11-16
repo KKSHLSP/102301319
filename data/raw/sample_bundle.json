@@ -1,0 +1,57 @@
+{
+  "video": {
+    "aid": 123456,
+    "bvid": "BV1xx411c7mD",
+    "cid": 654321,
+    "title": "示例视频：大模型应用案例合集",
+    "keyword": "大语言模型",
+    "duration": 600,
+    "publish_time": "2024-11-01T12:00:00+00:00",
+    "owner_name": "示例UP主",
+    "view_count": 987654,
+    "danmaku_count": 1200,
+    "like_count": 45678,
+    "ranking_index": 1
+  },
+  "danmaku": [
+    {
+      "video_bvid": "BV1xx411c7mD",
+      "video_cid": 654321,
+      "content": "大模型真是生产力工具！",
+      "appear_time": 13.5,
+      "send_time": "2024-11-01T12:02:21+00:00",
+      "mode": 1,
+      "font_size": 25,
+      "font_color": 16777215,
+      "author_hash": "abc123",
+      "weight": 0,
+      "pool": 0
+    },
+    {
+      "video_bvid": "BV1xx411c7mD",
+      "video_cid": 654321,
+      "content": "期待更多AI辅助创作功能",
+      "appear_time": 42.0,
+      "send_time": "2024-11-01T12:03:10+00:00",
+      "mode": 1,
+      "font_size": 25,
+      "font_color": 16711680,
+      "author_hash": "def456",
+      "weight": 0,
+      "pool": 0
+    },
+    {
+      "video_bvid": "BV1xx411c7mD",
+      "video_cid": 654321,
+      "content": "AI视频剪辑节省了我好多时间",
+      "appear_time": 88.9,
+      "send_time": "2024-11-01T12:04:55+00:00",
+      "mode": 1,
+      "font_size": 25,
+      "font_color": 65535,
+      "author_hash": "ghi789",
+      "weight": 0,
+      "pool": 0
+    }
+  ]
+}

@@ -13,12 +13,6 @@ env/
 venv/
 
 # Data outputs
-data/raw/
-data/processed/
-data/reports/
-!data/raw/README.md
-!data/processed/README.md
-!data/reports/README.md
 
 # IDE
 .idea/
