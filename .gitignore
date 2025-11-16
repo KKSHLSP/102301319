@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+.Python
+.pytest_cache/
+.mypy_cache/
+
+# Virtual environments
+.env
+.venv
+env/
+venv/
+
+# Data outputs
+data/raw/
+data/processed/
+data/reports/
+!data/raw/README.md
+!data/processed/README.md
+!data/reports/README.md
+
+# IDE
+.idea/
+.vscode/
+
+# OS files
+.DS_Store
